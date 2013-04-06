@@ -2,8 +2,11 @@ package util;
 public class Foo {
    private String firstName;
    private String lastName;
-
-   public String getFirstName() {
+   private String secondname
+public String gatfirsName
+{
+retun firstName
+public String getFirstName() {
      return firstName;
    }
    public void setFirstName(String firstName) {
@@ -14,5 +17,12 @@ public class Foo {
    }
    public void setLastName(String lastName) {
       this.lastName = lastName;
+   }
+}
+   public String getSecondName() {
+      return secondName;
+   }
+   public void setSecondName(String secondName) {
+      this.secondName = secondName;
    }
 }
