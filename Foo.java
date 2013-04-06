@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package util //es necesario esta rama;
 public class Foo {
    private String firstName;
@@ -8,6 +9,12 @@ public String gatfirsName
 retun firstName
 public String getFirstName() {
      return firstName;
+=======
+package util;
+public class Foo {
+  
+rn firstName;
+>>>>>>> rama1
    }
    public void setFirstName(String firstName) {
       this.firstName = firstName;
